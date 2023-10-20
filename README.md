@@ -25,7 +25,7 @@ This repository is responsible for the dynamic NFTs on our platform. Built on th
 ### Technical Stack
 - **Rust**: Uses the `mx-sdk-rs` framework to work with the MultiversX VM.
 - **MultiversX**: Where the Smart Contracts are deployed and interacted with.
-- **xSuite**
+- **xSuite**: A full suite for efficiently developing high-quality MultiversX smart contracts.
 
 ### Functionality
 The smart contract facilitates the minting, customization, and trading of our dynamic NFTs. Each NFT represents a customizable cup that can be donated for its value to chosen NGOs.
@@ -37,7 +37,7 @@ Central to our donation mechanism, this Rust-based smart contract on the Multive
 
 ### Technical Stack
 - **Rust**: Uses the `mx-sdk-rs` framework to work with the MultiversX VM.
-- **xSuite**: a full suite for efficiently developing high-quality MultiversX smart contracts.
+- **xSuite**: A full suite for efficiently developing high-quality MultiversX smart contracts.
 - **MultiversX**: Where the Smart Contracts are deployed and interacted with.
 
 ### Structure
